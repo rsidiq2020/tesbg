@@ -25,7 +25,7 @@ div.transbox p {
 
 <div class="background">
   <div class="transbox">
-    <p>This is some text that is placed in the transparent box.</p>
+    <p>rahmatullah@sidiq.net</p>
   </div>
 </div>
 
