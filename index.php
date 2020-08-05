@@ -5,7 +5,7 @@
 div.background {
   background: url(back.png) repeat;
   border: 2px solid black;
-  opacity: 0.1;
+  opacity: 0.8;
 }
 
 div.transbox {
